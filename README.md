@@ -1,5 +1,5 @@
 ## DisneySoundSource
-A simple Disney Sound Source clone based on schematics by shock__ and CVX4 DAC by dreamblaster.
+A simple Disney Sound Source (DSS) clone based on schematics by shock__ using a CVX4 DAC by dreamblaster for audio output. The DSS provides audio out over the parallel port for a handful of games. Regardless of the CVX circuits, this device does not work as a Covox Speech Thing dongle.
  
  
 <p align="center">
@@ -28,6 +28,6 @@ This repository includes gerber files for PCB manufacturing. However, this PCB h
 - dreamblaster and Scali from VOGONS forum, for the CVX4.
 
 # License
->"CC-BY-NC-SA - basically do with it what you want, as long as you credit me, don't offer it commercially and make your extensions/derivates available under the same license. Only exception, you're allowed to sell PCBs created/derived from this package at a price that covers your expenses but doesn't earn you any money (I guess a $ for handling is only fair, but selling a $3 PCB for $30 would be a scumbag move and in violation of the license)." 
+>CC-BY-NC-SA - basically do with it what you want, as long as you credit me, don't offer it commercially and make your extensions/derivates available under the same license. Only exception, you're allowed to sell PCBs created/derived from this package at a price that covers your expenses but doesn't earn you any money (I guess a $ for handling is only fair, but selling a $3 PCB for $30 would be a scumbag move and in violation of the license).
 
 by shock__
