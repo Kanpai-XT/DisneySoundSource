@@ -25,6 +25,7 @@ This repository includes gerber files for PCB manufacturing. However, this PCB h
 - keropi from VOGONS forum, for supplying photos and measuring parts on his original DSS.
 - x1541 from Verein zum Erhalt klassischer Computer e.V. (club for the preservation of classic computers) for suggesting the cheaper and non-discontinued CD40105 FIFOs.
 - matze79 from DOSReloaded, for additonal circuits on the power supply.
+- dreamblaster and Scali from VOGONS forum, for the CVX4.
 
 # License
 >"CC-BY-NC-SA - basically do with it what you want, as long as you credit me, don't offer it commercially and make your extensions/derivates available under the same license. Only exception, you're allowed to sell PCBs created/derived from this package at a price that covers your expenses but doesn't earn you any money (I guess a $ for handling is only fair, but selling a $3 PCB for $30 would be a scumbag move and in violation of the license)." 
