@@ -1,5 +1,5 @@
-## DisneySoundSource
-A simple Disney Sound Source (DSS) clone based on schematics by shock__ using a CVX4 DAC by dreamblaster for audio output. The DSS provides audio out over the parallel port for a handful of games. Regardless of the CVX circuits, this device does not work as a Covox Speech Thing dongle.
+# DisneySoundSource
+A simple Disney Sound Source (DSS) clone based on schematics by shock__ using a CVX4 DAC by dreamblaster for audio output. The DSS provides audio out over the parallel port for a handful of games. Regardless of the CVX circuits, this device is not compatible with a Covox Speech Thing.
  
  
 <p align="center">
@@ -7,7 +7,7 @@ A simple Disney Sound Source (DSS) clone based on schematics by shock__ using a 
 </p>
 
 
-# Files
+## Files
 This repository contains the following files:
 - shock__ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; subfolder conataining the original files
 - dss_smd.brd &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Autodesk Eagle board file
@@ -17,10 +17,10 @@ This repository contains the following files:
 - NE555N.ods &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; spreadsheet to calculate the resistance of the trimmer R10 for a 7kHz signal 
 - license.md &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; CC-BY-NC-SA
 
-# Gerber Files
+## Gerber Files
 This repository includes gerber files for PCB manufacturing. However, this PCB has plated slotted holes for the audio jack and usb jack. You are adviced to notify the manufacturer about these plated slotted holes! 
 
-# Credits
+## Credits
 - shock__ for the schematics and Eagle files.
 - dreamblaster and Scali from VOGONS forum, for the CVX4.
 - Jepael from VOGONS forum, for his input and checking over the original schematics by shock__.
@@ -28,7 +28,7 @@ This repository includes gerber files for PCB manufacturing. However, this PCB h
 - x1541 from Verein zum Erhalt klassischer Computer e.V. (club for the preservation of classic computers) for suggesting the cheaper and non-discontinued CD40105 FIFOs.
 - matze79 from DOSReloaded, for additonal circuits on the power supply.
 
-# License
+## License
 >CC-BY-NC-SA - basically do with it what you want, as long as you credit me, don't offer it commercially and make your extensions/derivates available under the same license. Only exception, you're allowed to sell PCBs created/derived from this package at a price that covers your expenses but doesn't earn you any money (I guess a $ for handling is only fair, but selling a $3 PCB for $30 would be a scumbag move and in violation of the license).
 
 by shock__
