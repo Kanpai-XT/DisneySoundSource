@@ -14,6 +14,7 @@ This repository contains the following files:
 - dd_smd.sch &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Autodesk Eagle schematics file
 - dds_smd_bom.csv &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; bill of materials
 - dds_smd_gerber.zip &nbsp;&nbsp;&nbsp;&nbsp; Gerber files
+- NE555N.ods &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; spreadsheet to calculate the resistance of the trimmer R10 for a 7kHz signal 
 - license.md &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; CC-BY-NC-SA
 
 # Gerber Files
