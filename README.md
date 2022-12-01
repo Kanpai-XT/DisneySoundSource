@@ -1,18 +1,22 @@
 ## DisneySoundSource
-A simple Disney Sound Source clone based on schematics by shock__ and CVX4 DAC by dreamblaster
+A simple Disney Sound Source clone based on schematics by shock__ and CVX4 DAC by dreamblaster.
+ 
+ 
+<p align="center">
+  <img src="https://github.com/Kanpai-XT/DisneySoundSource/blob/main/dss_smd_brd.png" width="350" title="hover text">
+</p>
 
-![alt text](https://github.com/Kanpai-XT/DisneySoundSource/blob/main/dss_smd_brd.png?raw=true)
 
 # Files
 This repository contains the following files:
-- shock__ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; subfolder conataining the original files
-- dss_smd.brd &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Autodesk Eagle board file
-- dd_smd.sch &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Autodesk Eagle schematics file
-- dds_smd_bom.csv &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; bill of materials
+- shock__ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; subfolder conataining the original files
+- dss_smd.brd &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Autodesk Eagle board file
+- dd_smd.sch &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Autodesk Eagle schematics file
+- dds_smd_bom.csv &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; bill of materials
 - dds_smd_gerber.zip &nbsp;&nbsp;&nbsp;&nbsp; Gerber files
 - license.md &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; CC-BY-NC-SA
 
-#Gerber
+# Gerber Files
 This repository includes gerber files for PCB manufacturing. However, this PCB has plated slotted holes for the audio jack and usb jack. You are adviced to notify the manufacturer about these plated slotted holes! 
 
 # Credits
